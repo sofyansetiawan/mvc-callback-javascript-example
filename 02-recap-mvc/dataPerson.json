@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Sofyan",
+        "address": "Jakarta",
+        "age": 28
+    },
+    {
+        "name":"Aldien",
+        "address": "Bandung",
+        "age": 21
+    },
+    {
+        "name":"Agung",
+        "address": "Sukabumi",
+        "age": 18
+    },
+    {
+        "name":"Ayu",
+        "address": "Samarinda",
+        "age": 23
+    },
+    {
+        "name":"Dian",
+        "address": "Jakarta",
+        "age": 21 
+    }
+]
